@@ -1,0 +1,37 @@
+[
+  {
+    "name": "博客",
+    "link": "https://blog.rusin.cn.mt",
+    "icon": "Blog"
+  },
+  {
+    "name": "文档",
+    "link": "https://docs.rusin.cn.mt",
+    "icon": "Book"
+  },
+  {
+    "name": "论坛",
+    "link": "https://forum.rusin.cn.mt",
+    "icon": "Fire"
+  },
+  {
+    "name": "工具",
+    "link": "https://tool.rusin.cn.mt",
+    "icon": "Compass"
+  },
+  {
+    "name": "封面",
+    "link": "https://cover.rusin.cn.mt/",
+    "icon": "FileImage"
+  },
+  {
+    "name": "监测",
+    "link": "https://status.bsgun.cn",
+    "icon": "LaptopCode"
+  },
+  {
+    "name": "统计",
+    "link": "https://icon.bsgun.cn/",
+    "icon": "Cloud"
+  }
+]
