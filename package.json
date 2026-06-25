@@ -16,7 +16,8 @@
     "format": "prettier --write src/",
     "lint": "eslint . --ext .js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts,.vue --fix",
     "type-check": "vue-tsc --noEmit",
-    "package-update": "npm-check-updates -u && pnpm update --latest --save"
+    "package-update": "npm-check-updates -u && pnpm update --latest --save",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@applemusic-like-lyrics/lyric": "^0.3.0",
@@ -56,6 +57,7 @@
     "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-prettier": "^5.5.5",
     "eslint-plugin-vue": "^10.8.0",
+    "gh-pages": "^6.3.0",
     "globals": "^17.4.0",
     "npm-check-updates": "^19.6.3",
     "postcss": "^8.5.8",

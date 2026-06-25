@@ -1,37 +1,62 @@
 [
   {
     "name": "博客",
-    "link": "https://blog.rusin.cn.mt",
+    "link": "https://blog.rusin7.com",
     "icon": "Blog"
   },
   {
     "name": "文档",
-    "link": "https://docs.rusin.cn.mt",
+    "link": "https://docs.rusin7.com",
     "icon": "Book"
   },
   {
     "name": "论坛",
-    "link": "https://forum.rusin.cn.mt",
-    "icon": "Fire"
+    "link": "https://forum.rusin7.com",
+    "icon": "CommentDots"
   },
   {
     "name": "工具",
-    "link": "https://tool.rusin.cn.mt",
-    "icon": "Compass"
+    "link": "https://tool.rusin7.com",
+    "icon": "Tools"
   },
   {
     "name": "封面",
-    "link": "https://cover.rusin.cn.mt/",
-    "icon": "FileImage"
+    "link": "https://cover.rusin7.com/",
+    "icon": "Image"
   },
   {
     "name": "监测",
-    "link": "https://status.bsgun.cn",
-    "icon": "LaptopCode"
+    "link": "https://status.rusin7.com",
+    "icon": "ChartLine"
+  },
+  {
+    "name": "图标",
+    "link": "https://icon.rusin7.com",
+    "icon": "Icons"
   },
   {
     "name": "统计",
-    "link": "https://icon.bsgun.cn/",
-    "icon": "Cloud"
+    "link": "https://stati.rusin7.com",
+    "icon": "ChartPie"
+  },
+  {
+    "name": "生活",
+    "link": "https://life.rusin7.com",
+    "icon": "Calendar"
+  },
+  {
+    "name": "项目",
+    "link": "https://pro.rusin7.com",
+    "icon": "Cookie"
+  },
+  {
+    "name": "图床",
+    "link": "https://image.rusin7.com",
+    "icon": "Upload"
+  },
+  {
+    "name": "每日一图",
+    "link": "https://bimg.rusin7.com",
+    "icon": "Images"
   }
 ]

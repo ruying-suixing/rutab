@@ -2,21 +2,26 @@
 
 > [!IMPORTANT]
 > ## 致大家
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;·&nbsp;嘿！恭喜你看到这里~ 这是酪灰基于原作者 imsyy 主页的修改版本！修改版本添加了更多的功能，但是也会带来更高的性能占用！（主要来自逐字歌词以及季节效果渲染），也添加了安全更新，增强安全性。<p>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;·&nbsp;酪灰作为 Vue 初学者，因为热爱，拉着同学 Pizero 完善了这个项目，因此这些代码可能会很 shi，并可能充斥着不少 BUG。欢迎在遇到 BUG 时进行反馈，也欢迎各位大佬帮助！<p>
+>
+> - 嘿！恭喜你看到这里~ 这是酪灰基于原作者 imsyy 主页的修改版本！修改版本添加了更多的功能，但是也会带来更高的性能占用！（主要来自逐字歌词以及季节效果渲染），也添加了安全更新，增强安全性。
+>
+> - 酪灰作为 Vue 初学者，因为热爱，拉着同学 Pizero 完善了这个项目，因此这些代码可能会很 shi，并可能充斥着不少 BUG。欢迎在遇到 BUG 时进行反馈，也欢迎各位大佬帮助！
+>
 >#### 关于问题反馈以及求助
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;·&nbsp;遇到问题请在 Github 上提 issue ，需要帮助请在 Github 上发 discussion ，看到了会回复。除特殊情况外，<b>请不要直接通过其它社交方式联系酪灰！</b>酪灰不是客服，不提供售后服务，并没有那么多的时间来回复私聊。还请谅解！<p>
+>
+> - 遇到问题请在 Github 上提 issue ，需要帮助请在 Github 上发 discussion ，看到了会回复。除特殊情况外，**请不要直接通过其它社交方式联系酪灰！**酪灰不是客服，不提供售后服务，并没有那么多的时间来回复私聊。还请谅解！
 >### 最后，喜欢本项目的话麻烦给个 STAR ！阿里嘎多~
 
-<p>&nbsp;<p>
+&nbsp;
 
 > [!WARNING]
 > ## 喜报
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;·&nbsp;间隔 386 天，Google 终于发布新版本 Workbox 了！ <p>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;·&nbsp;目前 PWA 应正常工作！<p>
+>
+> - 间隔 386 天，Google 终于发布新版本 Workbox 了！ <p>
+> - 目前 PWA 应正常工作！
 
-<p>&nbsp;<p>
-<strong><h2>無名の主页</h2></strong>
+&nbsp;
+## 無名の主页
 </p>
 
 ![無名の主页](/screenshots/main.png)<p>
@@ -64,8 +69,8 @@ injectRegister: false,
 
 - **安装** [node.js](https://nodejs.org/zh-cn/) **环境**
 
-  > node > 24.13.0 <p>
-  > npm > 10.15.0
+ > node > 24.13.0 
+ > npm > 10.15.0
 
 - 然后以 **管理员权限** 运行 `PowerShell` 终端，并 `cd` 到 项目根目录
 - 在 `终端` 中输入：
