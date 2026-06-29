@@ -17,7 +17,7 @@
     "lint": "eslint . --ext .js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts,.vue --fix",
     "type-check": "vue-tsc --noEmit",
     "package-update": "npm-check-updates -u && pnpm update --latest --save",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist --no-history"
   },
   "dependencies": {
     "@applemusic-like-lyrics/lyric": "^0.3.0",
